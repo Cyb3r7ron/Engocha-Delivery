@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "857918457430",
+    "project_id": "injera-times",
+    "storage_bucket": "injera-times.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857918457430:android:c04e15b0630b2269665df7",
+        "android_client_info": {
+          "package_name": "com.example.injera_times"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857918457430-fjrs8u03743c3n8qrfarr2kinroqdtq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.injera_times",
+            "certificate_hash": "280b3b91ecc72ed5b5782e1e2a021586528319e6"
+          }
+        },
+        {
+          "client_id": "857918457430-0rplmk4rborlteqtteqrloloaq57070c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Psl6SlyhXqFspGnOSsdjVXDWi6zklEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857918457430-0rplmk4rborlteqtteqrloloaq57070c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
